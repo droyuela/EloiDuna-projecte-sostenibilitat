@@ -1,10 +1,10 @@
 | Necessitat detectada | Tipus           | Persones o col·lectius afectats | Activitat econòmica relacionada | Evidència |
 | :------------------: | :--------------:| :-----------------------------: | :-----------------------------: | :-------: |
-|-                     | Ambiental       |                   -             |               -                 |-          |
-|-                     | Ambiental       |                   -             |               -                 |-          |
-|  | Social          |                   -             |               -                 | [Link](https://www.epdata.es/datos/listas-espera-sanidad-publica-datos-graficos-comunidad-autonoma/28/cataluna/297)      |
-|    -                 | Social          |                   -             |               -                 |-          |
-| Millorar sistema de bus per entrar i sortir de Barcelona                     | Socio-ambiental |                   -             |               -                 |-          |
+|-                     | Ambiental       |                   -             |               -                 | [Link](#nombre-de-la-seccion) |
+|-                     | Ambiental       |                   -             |               -                 | [Link](#nombre-de-la-seccion) |
+| Llargues llistes d’espera a la sanitat pública. | Social          | A tota la població |               Sanitat                 | [Link](https://www.epdata.es/datos/listas-espera-sanidad-publica-datos-graficos-comunidad-autonoma/28/cataluna/297) |
+|    -                 | Social          |                   -             |               -                 | [Link](#nombre-de-la-seccion) |
+| Millorar sistema de bus per entrar i sortir de Barcelona                     | Socio-ambiental |                   -             |               -                 | [Texto del enlace](#nombre-de-la-seccion) |
 
 1. Quines necessitats considereu més urgents? Per què?
 
