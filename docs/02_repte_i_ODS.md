@@ -7,4 +7,4 @@
 | Relació amb un sector productiu |  |  |
 | Possibilitat d’una solució tecnològica |  |  |
 | Possibilitat d’actuació local |  |  |
-| Puntuació total |  |  |
+| <span style="background-color: #ffcccc; color: red; font-family: monospace;">Estilo único</span> |  |  |
