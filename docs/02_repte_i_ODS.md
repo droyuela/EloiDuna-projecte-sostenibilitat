@@ -1,7 +1,7 @@
 | Criteri | Necessitat finalista 1 | Necessitat finalista 2 |
 | :-----: | :---------------------:| :--------------------: |
 | Importància i urgència |  |  |
-| Persones afectades  | Ambiental |  |
+| Persones afectades  |  |  |
 | Evidències disponibles |  |  |
 | Relació amb la sostenibilitat |  |  |
 | Relació amb un sector productiu |  |  |
