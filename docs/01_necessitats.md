@@ -2,7 +2,7 @@
 | :------------------: | :--------------:| :-----------------------------: | :-----------------------------: | :-------: |
 |-                     | Ambiental       |                   -             |               -                 |-          |
 |-                     | Ambiental       |                   -             |               -                 |-          |
-|  | Social          |                   -             |               -                 | [Link](#https://www.epdata.es/datos/listas-espera-sanidad-publica-datos-graficos-comunidad-autonoma/28/cataluna/297)      |
+|  | Social          |                   -             |               -                 | [Link](https://www.epdata.es/datos/listas-espera-sanidad-publica-datos-graficos-comunidad-autonoma/28/cataluna/297)      |
 |    -                 | Social          |                   -             |               -                 |-          |
 | Millorar sistema de bus per entrar i sortir de Barcelona                     | Socio-ambiental |                   -             |               -                 |-          |
 
