@@ -3,7 +3,7 @@
 |-                     | Ambiental       |                   -             |               -                 |-          |
 |-                     | Ambiental       |                   -             |               -                 |-          |
 |-                     | Social          |                   -             |               -                 |-          |
-|-                     | Social          |                   -             |               -                 |-          |
+|    -                  | Social          |                   -             |               -                 |-          |
 |-                     | Socio-ambiental |                   -             |               -                 |-          |
 
 1. Quines necessitats considereu més urgents? Per què?
