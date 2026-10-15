@@ -7,7 +7,7 @@
 | Millorar sistema de bus per entrar i sortir de Barcelona | Socio-ambiental | Persones, Empreses i Comerços | Transports | [Link](https://www.larazon.es/cataluna/sigue-polemica-buses-interurbanos-barcelona-resuelve-problema_2026050569f99d102f817e65817a9b65.html) |
 
 1. Quines necessitats considereu més urgents? Per què?
-
+LListes de espera i pensions
 2. Quines afecten un nombre més gran de persones?
  
 3. Quines tenen una relació més directa amb una activitat econòmica?
