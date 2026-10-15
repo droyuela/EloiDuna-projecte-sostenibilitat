@@ -2,9 +2,9 @@
 | :------------------: | :--------------:| :-----------------------------: | :-----------------------------: | :-------: |
 |-                     | Ambiental       |                   -             |               -                 |-          |
 |-                     | Ambiental       |                   -             |               -                 |-          |
-|-Millorar sistema de bus per entrar i sortir de Barcelona | Social          |                   -             |               -                 |-          |
+|  | Social          |                   -             |               -                 | [https://www.epdata.es/datos/listas-espera-sanidad-publica-datos-graficos-comunidad-autonoma/28/cataluna/297](#Link)      |
 |    -                 | Social          |                   -             |               -                 |-          |
-|-                     | Socio-ambiental |                   -             |               -                 |-          |
+| Millorar sistema de bus per entrar i sortir de Barcelona                     | Socio-ambiental |                   -             |               -                 |-          |
 
 1. Quines necessitats considereu més urgents? Per què?
 
