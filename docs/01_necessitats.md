@@ -2,10 +2,9 @@
 | :------------------: | :--------------:| :-----------------------------: | :-----------------------------: | :-------: |
 |-                     | Ambiental       |                   -             |               -                 |-          |
 |-                     | Ambiental       |                   -             |               -                 |-          |
-|-Millorar sistema de bus per entrar i sortir de Barcelona
-
-                     | Social          |                   -             |               -                 |-          |
-|    -                  | Social          |                   -             |               -                 |-          |
+|-Millorar sistema de bus per entrar i sortir de Barcelona |        |      |                                 |           |
+|                      | Social          |                   -             |               -                 |-          |
+|    -                 | Social          |                   -             |               -                 |-          |
 |-                     | Socio-ambiental |                   -             |               -                 |-          |
 
 1. Quines necessitats considereu més urgents? Per què?
