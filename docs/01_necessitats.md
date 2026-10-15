@@ -2,7 +2,9 @@
 | :------------------: | :--------------:| :-----------------------------: | :-----------------------------: | :-------: |
 |-                     | Ambiental       |                   -             |               -                 |-          |
 |-                     | Ambiental       |                   -             |               -                 |-          |
-|-                     | Social          |                   -             |               -                 |-          |
+|-Millorar sistema de bus per entrar i sortir de Barcelona
+
+                     | Social          |                   -             |               -                 |-          |
 |    -                  | Social          |                   -             |               -                 |-          |
 |-                     | Socio-ambiental |                   -             |               -                 |-          |
 
