@@ -9,7 +9,7 @@
 | Possibilitat d’actuació local | 2 | 3 |
 | **Puntuació total** | 20/21 | 20/21 |
 
-Repte principal del Projecte: Millor sistema de gestió de residus
+**Repte principal del Projecte: Millor sistema de gestió de residus**
 
 Com podríem ajudar els ciutadans a millorar la gestió dels residus en l’entorn del nostre municipi? 
 
