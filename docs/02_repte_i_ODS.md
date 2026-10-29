@@ -11,6 +11,6 @@
 
 **Repte principal del Projecte: Millor sistema de gestió de residus**
 
-##Com podríem ajudar els ciutadans a millorar la gestió dels residus en l’entorn del nostre municipi?##
+## Com podríem ajudar els ciutadans a millorar la gestió dels residus en l’entorn del nostre municipi?
 
 
