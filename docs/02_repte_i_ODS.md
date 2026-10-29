@@ -13,4 +13,6 @@
 
 ## Com podríem ajudar els ciutadans a millorar la gestió dels residus en l’entorn del nostre municipi?
 
+El problema consiste en la mala gestió dels residus, com ara llençar les escombraries al lloc incorrecte, no separar bé els materials per reciclar o deixar deixalles al carrer. Aquest problema es produeix als carrers, als parcs, a les zones comercials i als contenidors dels municipis. Afecta els ciutadans, els treballadors de la neteja, els ajuntaments, els animals i el medi ambient. Algunes evidències són els contenidors plens, les deixalles abandonades al carrer i la barreja de residus que haurien d'anar separats. També es poden consultar les dades municipals sobre la quantitat de residus generats i els percentatges de reciclatge. És important actuar-hi perquè una bona gestió dels residus redueix la contaminació, facilita el reciclatge, estalvia recursos naturals i ajuda a mantenir els espais públics nets. Aquest problema està relacionat amb el sector de la gestió de residus i el reciclatge, que inclou la recollida d'escombraries, el transport, la classificació, el tractament i la reutilització dels materials, amb la participació dels ajuntaments i les empreses especialitzades.
+
 
