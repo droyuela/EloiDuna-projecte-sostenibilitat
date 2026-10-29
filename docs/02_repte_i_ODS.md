@@ -1,4 +1,4 @@
-| Criteri | Necessitat finalista 1 | Necessitat finalista 2 |
+| Criteri | Finalista 1: Llargues llistes d’espera a la sanitat pública| Finalista 2: Millor del sistema de gestió de residus |
 | :-----: | :---------------------:| :--------------------: |
 | Importància i urgència |  |  |
 | Persones afectades  |  |  |
